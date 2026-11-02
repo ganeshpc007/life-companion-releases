@@ -39,7 +39,7 @@ After installing or updating, the app asks once whether it may send error report
 - the app version, your operating system and its version, and your processor type (for example `x86_64`);
 - a random install id, created on your computer when you switch error reports on. It is not linked to your name, email or account. It lets us count how many installs a problem affects;
 - the kinds of your last 50 actions in the app (for example "settings opened", "reminder card shown"), without any content;
-- the last 200 technical log lines, with personal fields removed and your home folder shortened to `~`;
+- recent technical log lines (up to the last 200 of this session and the last 80 of the session before, so we can see how the app last stopped), with personal fields removed and your home folder shortened to `~`;
 - your comment, if you wrote one.
 
 **What a report never contains:** your reminders' titles, notes or schedules, your settings' values, or your files.
