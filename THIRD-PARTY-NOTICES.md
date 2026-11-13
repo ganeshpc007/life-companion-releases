@@ -217,7 +217,7 @@ limitations under the License.
 
 ## Apache-2.0
 
-Used by: anyhow 1.0.104, atomic-waker 1.1.2, base64 0.21.7, base64 0.22.1, bit-set 0.8.0, bit-vec 0.8.0, bitflags 1.3.2, bitflags 2.13.1, block-buffer 0.10.4, camino 1.2.5, cfg-if 1.0.4, core-foundation 0.10.1, core-foundation 0.9.4, core-foundation-sys 0.8.7, core-graphics 0.25.0, core-graphics-types 0.2.0, cpufeatures 0.2.17, crossbeam-channel 0.5.16, crossbeam-utils 0.8.22, crypto-common 0.1.7, digest 0.10.7, dirs 4.0.0, dirs 6.0.0, dirs-sys 0.3.7, dirs-sys 0.5.0, dispatch2 0.3.1, displaydoc 0.2.7, dtoa 1.0.11, dunce 1.0.5, dyn-clone 1.0.20, embed_plist 1.2.2, equivalent 1.0.2, erased-serde 0.4.10, errno 0.3.14, fastrand 2.5.0, fdeflate 0.3.7, filetime 0.2.29, flate2 1.1.9, fnv 1.0.7, form_urlencoded 1.2.2, futures-lite 2.6.1, futures-timer 3.0.4, glob 0.3.4, hashbrown 0.17.1, hashlink 0.12.2, heck 0.5.0, html5ever 0.38.0, httparse 1.10.1, hyper-rustls 0.27.7, ident_case 1.0.1, idna 1.1.0, idna_adapter 1.2.2, indexmap 2.14.0, itoa 1.0.18, keyboard-types 0.7.0, lazy_static 1.5.1, libc 0.2.189, lock_api 0.4.14, log 0.4.33, mac-usernotifications 0.3.1, markup5ever 0.38.0, mime 0.3.17, miniz_oxide 0.8.9, muda 0.19.3, num-conv 0.2.2, num-traits 0.2.19, objc2-app-kit 0.3.2, objc2-core-foundation 0.3.2, objc2-core-graphics 0.3.2, objc2-core-location 0.3.2, objc2-exception-helper 0.1.1, objc2-osa-kit 0.3.2, objc2-quartz-core 0.3.2, objc2-user-notifications 0.3.2, objc2-web-kit 0.3.2, once_cell 1.21.4, osakit 0.3.1, parking 2.2.1, parking_lot 0.12.5, parking_lot_core 0.9.12, percent-encoding 2.3.2, pin-project-lite 0.2.17, png 0.17.16, png 0.18.1, proc-macro2 1.0.107, quote 1.0.47, raw-window-handle 0.6.2, regex 1.13.1, regex-automata 0.4.18, regex-syntax 0.8.11, ring 0.17.14, rustc-hash 2.1.3, rustix 1.1.5, rustls 0.23.45, rustls-platform-verifier 0.6.2, scopeguard 1.2.0, security-framework 3.6.0, security-framework-sys 2.17.0, semver 1.0.28, serde 1.0.229, serde-untagged 0.1.9, serde_core 1.0.229, serde_derive 1.0.229, serde_derive_internals 0.29.1, serde_json 1.0.151, serde_repr 0.1.21, serde_with 3.22.0, serde_with_macros 3.22.0, serialize-to-javascript 0.1.2, serialize-to-javascript-impl 0.1.2, servo_arc 0.4.3, sha2 0.10.9, siphasher 1.0.3, smallvec 1.15.2, socket2 0.6.5, stable_deref_trait 1.2.1, string_cache 0.9.0, symlink 0.1.0, syn 2.0.119, syn 3.0.3, sync_wrapper 1.0.2, system-configuration 0.7.0, system-configuration-sys 0.6.0, tar 0.4.46, tauri 2.11.5, tauri-codegen 2.6.3, tauri-macros 2.6.3, tauri-plugin-autostart 2.5.1, tauri-plugin-single-instance 2.4.5, tauri-plugin-updater 2.12.0, tauri-runtime 2.11.3, tauri-runtime-wry 2.11.4, tauri-utils 2.9.3, tempfile 3.27.0, tendril 0.5.1, thiserror 1.0.69, thiserror 2.0.20, thiserror-impl 1.0.69, thiserror-impl 2.0.20, thread_local 1.1.10, time 0.3.55, time-core 0.1.9, time-macros 0.2.32, tray-icon 0.24.2, typeid 1.0.3, unic-char-property 0.9.0, unic-char-range 0.9.0, unic-common 0.9.0, unic-ucd-ident 0.9.0, unic-ucd-version 0.9.0, unicode-ident 1.0.24, unicode-segmentation 1.13.3, url 2.5.8, utf8_iter 1.0.4, uuid 1.24.0, web_atoms 0.2.6, window-vibrancy 0.6.0, wry 0.55.1, xattr 1.6.1, zeroize 1.8.2
+Used by: anyhow 1.0.104, atomic-waker 1.1.2, base64 0.21.7, base64 0.22.1, base64 0.23.1, bit-set 0.8.0, bit-vec 0.8.0, bitflags 2.13.1, block-buffer 0.10.4, camino 1.2.5, cfg-if 1.0.4, core-foundation 0.10.1, core-foundation 0.9.4, core-foundation-sys 0.8.7, core-graphics 0.25.0, core-graphics-types 0.2.0, cpufeatures 0.2.17, crossbeam-channel 0.5.16, crossbeam-utils 0.8.22, crypto-common 0.1.7, digest 0.10.7, dirs 4.0.0, dirs 7.0.0, dirs-sys 0.3.7, dirs-sys 0.5.0, dispatch2 0.3.1, displaydoc 0.2.7, dtoa 1.0.11, dunce 1.0.5, dyn-clone 1.0.20, embed_plist 1.2.2, equivalent 1.0.2, erased-serde 0.4.10, errno 0.3.14, fastrand 2.5.0, fdeflate 0.3.7, filetime 0.2.29, flate2 1.1.9, fnv 1.0.7, form_urlencoded 1.2.2, futures-lite 2.6.1, futures-timer 3.0.4, glob 0.3.4, hashbrown 0.17.1, hashlink 0.12.2, heck 0.5.0, html5ever 0.39.0, httparse 1.10.1, hyper-rustls 0.27.7, ident_case 1.0.1, idna 1.1.0, idna_adapter 1.2.2, indexmap 2.14.0, itoa 1.0.18, keyboard-types 0.8.3, lazy_static 1.5.1, libc 0.2.189, lock_api 0.4.14, log 0.4.33, mac-usernotifications 0.3.1, markup5ever 0.39.0, mime 0.3.17, miniz_oxide 0.8.9, muda 0.20.0, num-conv 0.2.2, num-traits 0.2.19, objc2-app-kit 0.3.2, objc2-core-foundation 0.3.2, objc2-core-graphics 0.3.2, objc2-core-location 0.3.2, objc2-exception-helper 0.1.1, objc2-osa-kit 0.3.2, objc2-quartz-core 0.3.2, objc2-user-notifications 0.3.2, objc2-web-kit 0.3.2, once_cell 1.21.4, osakit 0.3.1, parking 2.2.1, parking_lot 0.12.5, parking_lot_core 0.9.12, percent-encoding 2.3.2, pin-project-lite 0.2.17, png 0.18.1, proc-macro2 1.0.107, quote 1.0.47, raw-window-handle 0.6.2, regex 1.13.1, regex-automata 0.4.18, regex-syntax 0.8.11, ring 0.17.14, rustc-hash 2.1.3, rustix 1.1.5, rustls 0.23.45, rustls-platform-verifier 0.6.2, scopeguard 1.2.0, security-framework 3.6.0, security-framework-sys 2.17.0, semver 1.0.28, serde 1.0.229, serde-untagged 0.1.9, serde_core 1.0.229, serde_derive 1.0.229, serde_derive_internals 0.29.1, serde_json 1.0.151, serde_repr 0.1.21, serde_with 3.22.0, serde_with_macros 3.22.0, serialize-to-javascript 0.1.2, serialize-to-javascript-impl 0.1.2, servo_arc 0.4.3, sha2 0.10.9, siphasher 1.0.3, smallvec 1.15.2, socket2 0.6.5, stable_deref_trait 1.2.1, string_cache 0.9.0, symlink 0.1.0, syn 2.0.119, syn 3.0.3, sync_wrapper 1.0.2, system-configuration 0.7.0, system-configuration-sys 0.6.0, tar 0.4.46, tauri 2.12.5, tauri-codegen 2.7.4, tauri-macros 2.7.4, tauri-plugin-autostart 2.5.1, tauri-plugin-single-instance 2.4.5, tauri-plugin-updater 2.12.0, tauri-runtime 2.12.2, tauri-runtime-wry 2.12.3, tauri-utils 2.10.2, tempfile 3.27.0, tendril 0.5.1, thiserror 1.0.69, thiserror 2.0.20, thiserror-impl 1.0.69, thiserror-impl 2.0.20, thread_local 1.1.10, time 0.3.55, time-core 0.1.9, time-macros 0.2.32, tray-icon 0.25.1, typeid 1.0.3, unicode-ident 1.0.24, unicode-segmentation 1.13.3, url 2.5.8, utf8_iter 1.0.4, uuid 1.24.0, web_atoms 0.2.6, window-vibrancy 0.8.1, wry 0.57.2, xattr 1.6.1, zeroize 1.8.2
 
 ```text
 Apache License
@@ -880,7 +880,7 @@ limitations under the License.
 
 ## Apache-2.0
 
-Used by: crc32fast 1.5.0, ctor 0.8.0, ctor-proc-macro 0.0.7, dpi 0.1.2, fallible-iterator 0.3.0, fallible-streaming-iterator 0.1.9, foreign-types 0.5.0, foreign-types-macros 0.2.4, foreign-types-shared 0.3.1, json-patch 3.0.1, serde_spanned 1.1.1, tao 0.35.3, toml 0.9.12+spec-1.1.0, toml_datetime 0.7.5+spec-1.1.0, toml_parser 1.1.3+spec-1.1.0, toml_writer 1.1.2+spec-1.1.0, winapi 0.3.9
+Used by: crc32fast 1.5.0, ctor 1.0.13, dpi 0.1.2, fallible-iterator 0.3.0, fallible-streaming-iterator 0.1.9, foreign-types 0.5.0, foreign-types-macros 0.2.4, foreign-types-shared 0.3.1, json-patch 4.2.0, serde_spanned 1.1.1, tao 0.37.2, toml 1.1.4+spec-1.1.0, toml_datetime 1.1.1+spec-1.1.0, toml_parser 1.1.3+spec-1.1.0, toml_writer 1.1.2+spec-1.1.0, winapi 0.3.9
 
 ```text
 Apache License
@@ -2337,7 +2337,7 @@ Apache License
 
 ## Apache-2.0
 
-Used by: jsonptr 0.6.3
+Used by: jsonptr 0.7.1
 
 ```text
 Apache License
@@ -3880,7 +3880,7 @@ Apache License
 
 ## Apache-2.0
 
-Used by: swift-rs 1.0.7
+Used by: swift-rs 1.0.9
 
 ```text
 Apache License
@@ -4504,7 +4504,215 @@ limitations under the License.
 
 ## Apache-2.0
 
-Used by: windows 0.61.3, windows-collections 0.2.0, windows-core 0.61.2, windows-future 0.2.1, windows-implement 0.60.2, windows-interface 0.59.3, windows-link 0.1.3, windows-link 0.2.1, windows-numerics 0.2.0, windows-registry 0.5.3, windows-result 0.3.4, windows-strings 0.4.2, windows-sys 0.59.0, windows-sys 0.60.2, windows-sys 0.61.2, windows-targets 0.52.6, windows-targets 0.53.5, windows-threading 0.1.0, windows-version 0.1.7, windows_x86_64_msvc 0.52.6, windows_x86_64_msvc 0.53.1
+Used by: web-time 1.1.0
+
+```text
+Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright 2023 dAxpeDDa
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+```
+
+## Apache-2.0
+
+Used by: windows 0.61.3, windows 0.62.2, windows-collections 0.2.0, windows-collections 0.3.2, windows-core 0.61.2, windows-core 0.62.2, windows-future 0.2.1, windows-future 0.3.2, windows-implement 0.60.2, windows-interface 0.59.3, windows-link 0.1.3, windows-link 0.2.1, windows-numerics 0.2.0, windows-numerics 0.3.1, windows-registry 0.5.3, windows-result 0.3.4, windows-result 0.4.1, windows-strings 0.4.2, windows-strings 0.5.1, windows-sys 0.59.0, windows-sys 0.60.2, windows-sys 0.61.2, windows-targets 0.52.6, windows-targets 0.53.5, windows-threading 0.1.0, windows-threading 0.2.1, windows-version 0.1.7, windows_x86_64_msvc 0.52.6, windows_x86_64_msvc 0.53.1
 
 ```text
 Apache License
@@ -4712,7 +4920,7 @@ Apache License
 
 ## Apache-2.0 OR MIT
 
-Used by: @tauri-apps/api 2.11.1 (npm)
+Used by: @tauri-apps/api 2.12.4 (npm)
 
 ```text
 Apache License
@@ -4913,11 +5121,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+PackageName: tauri
+DataFormat: SPDXRef-1
+PackageSupplier: Organization: The Tauri Programme in the Commons Conservancy
+PackageHomePage: https://tauri.app
+PackageLicenseDeclared: Apache-2.0
+PackageLicenseDeclared: MIT
+PackageCopyrightText: 2019-2025, The Tauri Programme in the Commons Conservancy
+PackageSummary: <text>Tauri is a rust project that enables developers to make secure
+and small desktop applications using a web frontend.
+                </text>
+PackageComment: <text>The package includes the following libraries; see
+Relationship information.
+                </text>
+Created: 2019-05-20T09:00:00Z
+PackageDownloadLocation: git://github.com/tauri-apps/tauri
+PackageDownloadLocation: git+https://github.com/tauri-apps/tauri.git
+PackageDownloadLocation: git+ssh://github.com/tauri-apps/tauri.git
+Creator: Person: Daniel Thompson-Yvetot
 ```
 
 ## BSD-3-Clause
 
-Used by: alloc-no-stdlib 2.0.4, brotli 8.0.4
+Used by: alloc-no-stdlib 3.0.0, brotli 9.1.1
 
 ```text
 Copyright (c) 2016 Dropbox, Inc.
@@ -4936,7 +5165,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 ## BSD-3-Clause
 
-Used by: alloc-stdlib 0.2.4
+Used by: alloc-stdlib 0.3.0
 
 ```text
 Copyright (c) <year> <owner>. 
@@ -5772,7 +6001,7 @@ SOFTWARE.
 
 ## MIT
 
-Used by: block2 0.6.2, brotli-decompressor 5.0.3, dpi 0.1.2, minisign-verify 0.2.5, objc2 0.6.4, objc2-encode 4.1.0, objc2-foundation 0.3.2, webview2-com 0.38.2, webview2-com-macros 0.8.1, webview2-com-sys 0.38.2
+Used by: block2 0.6.2, brotli-decompressor 6.3.1, dpi 0.1.2, minisign-verify 0.2.5, objc2 0.6.4, objc2-encode 4.1.0, objc2-foundation 0.3.2, webview2-com 0.39.1, webview2-com-macros 0.8.1, webview2-com-sys 0.39.1
 
 ```text
 MIT License
@@ -5797,7 +6026,7 @@ USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## MIT
 
-Used by: brotli 8.0.4
+Used by: brotli 9.1.1
 
 ```text
 Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
@@ -5855,7 +6084,7 @@ DEALINGS IN THE SOFTWARE.
 
 ## MIT
 
-Used by: cargo_metadata 0.19.2, winnow 0.7.15, winnow 1.0.4, zmij 1.0.23
+Used by: cargo_metadata 0.19.2, winnow 1.0.4, zmij 1.0.23
 
 ```text
 Permission is hereby granted, free of charge, to any
@@ -5885,7 +6114,7 @@ DEALINGS IN THE SOFTWARE.
 
 ## MIT
 
-Used by: cfb 0.7.3
+Used by: cfb 0.14.0, cfb 0.7.3
 
 ```text
 MIT License
@@ -5969,7 +6198,7 @@ SOFTWARE.
 
 ## MIT
 
-Used by: dom_query 0.27.0
+Used by: dom_query 0.28.0
 
 ```text
 MIT License
@@ -6115,7 +6344,7 @@ THE SOFTWARE.
 
 ## MIT
 
-Used by: ico 0.5.0
+Used by: ico 0.6.0
 
 ```text
 MIT License
@@ -6143,7 +6372,7 @@ SOFTWARE.
 
 ## MIT
 
-Used by: infer 0.19.0
+Used by: infer 0.19.0, infer 0.22.0
 
 ```text
 MIT License
@@ -6877,7 +7106,7 @@ THE SOFTWARE.
 
 ## MIT
 
-Used by: urlpattern 0.3.0
+Used by: urlpattern 0.6.0
 
 ```text
 MIT License
@@ -7015,7 +7244,7 @@ Creator: Person: Daniel Thompson-Yvetot
 
 ## MPL-2.0
 
-Used by: cssparser 0.36.0, cssparser-macros 0.6.1, dtoa-short 0.3.5
+Used by: cssparser 0.37.0, cssparser-macros 0.7.1, dtoa-short 0.3.5
 
 ```text
 Mozilla Public License Version 2.0
@@ -7395,7 +7624,7 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 ## MPL-2.0
 
-Used by: option-ext 0.2.0, selectors 0.36.1
+Used by: option-ext 0.2.0, selectors 0.38.0
 
 ```text
 Mozilla Public License Version 2.0
