@@ -1,13 +1,13 @@
 # Life Companion Privacy Policy
 
-Last updated: 29 October 2026 · Applies to: Life Companion for macOS and Windows (beta)
+Last updated: 23 November 2026 · Applies to: Life Companion for macOS and Windows (beta)
 
 Life Companion is a reminder app that keeps your reminders on your own computer. This policy explains, in plain words, what the app does with information. It is published by **Ganesh P C** (India), referred to here as "we".
 
 ## The short version
 
 - Your reminders, notes, schedules and settings **stay on your computer**. There is no account and nothing is synced.
-- The app checks **GitHub** for updates.
+- The app checks **GitHub** for updates and, unless you switch it off, downloads and installs them.
 - If you agree, the app sends **error reports** with technical details only, **never your reminders' text**. You can switch this off at any time.
 - No analytics, no advertising, no tracking, no selling of data.
 
@@ -24,7 +24,9 @@ We cannot see any of this. It never leaves your computer, except the technical d
 
 ## 2. Update checks
 
-About every 2 hours, and when you choose "Check for updates", the app asks GitHub (`github.com`, run by GitHub, Inc.) whether a new version exists. If you choose to update, it downloads the new version from GitHub.
+About every 2 hours, and when you choose "Check for updates", the app asks GitHub (`github.com`, run by GitHub, Inc.) whether a new version exists. When one does, the app downloads it from GitHub and installs it while you're away from the computer, the next time it starts, or when you quit. With **Settings → General → Install updates automatically** switched off, it downloads the new version only when you choose to update.
+
+To tell when you're away, the app reads how long ago the keyboard or mouse was last used. It doesn't see what you type or where you point, and this stays on your computer.
 
 Like any website, GitHub receives your computer's IP address and basic request information when the app does this. The app sends nothing else: no account, no identifier, no reminder data. GitHub's handling of this is covered by [GitHub's privacy statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
 
